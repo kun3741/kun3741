@@ -64,7 +64,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kun3741&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -72,7 +72,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kun3741&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr>  
 
 <br/>  
 
