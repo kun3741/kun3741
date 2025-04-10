@@ -26,7 +26,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Vaysed Website](https://github.com/kun3741/vaysedshop)  
   
@@ -41,7 +41,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
