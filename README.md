@@ -20,10 +20,6 @@
 ### Glad to see you here!  
 I'm a creative Back-end and ChatBot developer who will find a unique approach to everyone who turns to my for services.
 I speak three languages fluently: English, Ukrainian, Russian. Looking for a place in a cozy team that is not afraid of criticism and a lot of discussion.   
-  
-
-<br/>  
-
 
 ## Rapidfire  
 <tr><td valign="top" width="50%">
@@ -39,12 +35,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 
 </td><td valign="top" width="50%">
 
-
-
 </td></tr>
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
