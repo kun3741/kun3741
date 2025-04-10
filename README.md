@@ -73,12 +73,5 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kun3741&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr>  
-
-<br/>  
-
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=kun3741&&style=flat-square)  
 
