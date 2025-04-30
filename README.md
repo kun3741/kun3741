@@ -24,7 +24,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Vaysed Website](https://github.com/kun3741/vaysedshop)  
+- 🔭 I’m currently working on [Sports Simulator](https://github.com/kun3741/sports-simulator)  
   
 
 - 🌱 I’m currently learning Django  
