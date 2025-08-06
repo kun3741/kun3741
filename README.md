@@ -24,10 +24,10 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Sports Simulator](https://github.com/kun3741/sports-simulator)  
+- 🔭 I’m currently working on some new project...  
   
 
-- 🌱 I’m currently learning Django  
+- 🌱 I’m currently learning **n8n**
   
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
