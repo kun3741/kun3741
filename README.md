@@ -1,4 +1,4 @@
-## Hey 👋, I'm Volodymyr!  
+<!--## Hey 👋, I'm Volodymyr!  
   
 
 <a href="https://github.com/kun3741" target="_blank">
@@ -60,5 +60,10 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kun3741&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 </td> 
-  
+  -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <img src="light.svg" alt="Volodymyr's GitHub profile header">
+</picture>
 
