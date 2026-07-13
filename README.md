@@ -63,7 +63,7 @@ I speak three languages fluently: English, Ukrainian, Russian. Looking for a pla
   -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark1.svg">
   <img src="light.svg" alt="Volodymyr's GitHub profile header">
 </picture>
 
